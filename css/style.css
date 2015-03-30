@@ -44,10 +44,10 @@ body.white-slider .revolution-wrap .rev-caption .big-inner p {
   color: #202020;
 }
 body.white-slider .navbar .header-slider .tp-rightarrow.default:after {
-  color: #202020;
+  color: #000000;
 }
 body.white-slider .navbar .header-slider .tp-leftarrow.default:after {
-  color: #202020;
+  color: #000000;
 }
 a {
   text-decoration: none !important;
@@ -1525,7 +1525,7 @@ form select {
   width: 100%;
   height: 100%;
   line-height: 100%;
-  color: white;
+  color: black;
   font-size: 30px;
   text-align: center;
 }
@@ -3442,7 +3442,7 @@ form select {
 .revolution-wrap .rev-caption .big-inner h2 {
   font-size: 50px;
   line-height: 50px;
-  color: white;
+  color: black;
   text-transform: uppercase;
   white-space: normal;
   margin-bottom: 30px;
@@ -3450,11 +3450,11 @@ form select {
 .revolution-wrap .rev-caption .big-inner p {
   font-size: 24px;
   line-height: 32px;
-  color:#EDEDED;
+  color:#000000;
   margin-bottom: 30px;
 }
 .revolution-wrap .rev-caption .big-inner a {
-  color: white;
+  color: black;
   text-transform: uppercase;
 }
 .revolution-wrap .overlay {
