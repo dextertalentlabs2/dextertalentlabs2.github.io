@@ -1633,11 +1633,39 @@ form select {
   line-height: 24px;
 }
 
-.statement.black-2 .btn-statement:hover {
+.statement.black-2.btn-statement:hover {
+  background: none repeat scroll 0 0 rgba(0, 0, 0, 0.5);
+}
+.statement.black-4 {
+  background-image: url('../content/banner/banner_services.jpg');
+}
+.statement.black-4 .btn-statement {
+   background: none repeat scroll 0 0 rgba(0, 0, 0, 0.1);
+  color: white;
+  border: solid 1px white;
+  font-family: "Open Sans";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.statement.black-6 {
+  background-image: url('../content/banner/dexterhackathon.jpg');
+}
+.statement.black-6 .btn-statement {
+   background: none repeat scroll 0 0 rgba(0, 0, 0, 0.1);
+  color: white;
+  border: solid 1px white;
+  font-family: "Open Sans";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.statement.black-4 .btn-statement:hover {
   background: none repeat scroll 0 0 rgba(0, 0, 0, 0.5);
 }
 .statement.blue {
-  background-image: url('../content/statement-background-3.jpg');
+  background-image: url('../content/banner/dexterhackathon.jpg');
 }
 .statement.blue h2 {
   color: #202020;
