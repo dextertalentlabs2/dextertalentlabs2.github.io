@@ -1700,6 +1700,9 @@ form select {
 .statement.simple.green {
   background: #5cd117;
 }
+.statement.simple.black {
+  background: #000022;
+}
 .statement.simple .dtl-icon {
   margin-bottom: 30px;
 }
